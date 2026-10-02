@@ -1,0 +1,27 @@
+[
+  {
+    "id": 101,
+    "nome": "Produto Premium 1",
+    "preco": "21.77"
+  },
+  {
+    "id": 102,
+    "nome": "Produto Premium 2",
+    "preco": "95.81"
+  },
+  {
+    "id": 103,
+    "nome": "Produto Premium 3",
+    "preco": "83.17"
+  },
+  {
+    "id": 104,
+    "nome": "Produto Premium 4",
+    "preco": "66.32"
+  },
+  {
+    "id": 105,
+    "nome": "Produto Premium 5",
+    "preco": "52.90"
+  }
+]
